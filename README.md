@@ -1,32 +1,36 @@
-# Vue Theme for [iTerm 2](http://iterm2.com)
+# Vue Theme for [iTerm 2](http://iterm2.com) and [ZSH](https://ohmyz.sh)
+
+Install [Vue Theme](https://mariorodeghiero.com/vue-theme/) in your terminal.
 
 ## Install
 
-There are 2 ways to install an iTerm theme (both go to the same configuration location):
+First, clone the repo via git:
 
-#### Direct way via keyboard shortcut:
+```
+$ git clone https://github.com/mariorodeghiero/vue-theme-iterm2.git
+```
 
-- Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
-- Type CMD+i (⌘+i)
-- Navigate to **Colors** tab
-- Click on **Color Presets**
-- Click on **Import**
-- Select the vue-theme.itermcolors file(s) of the scheme(s) you'd like to use \* Click on **Color Presets** and select vue-theme
+> Install iTerm Theme
 
-#### Via iTerm preferences
+1. Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
+2. Click on **iTerm2** menu title
+3. Select **Preferences...** option
+4. Select **Profiles**
+5. Navigate to **Colors** tab
+6. Click on **Color Presets**
+7. Click on **Import**
+8. Select the **vue-theme.itermcolors** file
+9. Return to **Color presets** and select Vue-Theme
+10. Restart your terminal.
 
-- Launch iTerm 2. Get the latest version at <a href="http://www.iterm2.com">iterm2.com</a>
-- Click on **iTerm2** menu title
-- Select **Preferences...** option
-- Select **Profiles**
-- Navigate to **Colors** tab
-- Click on **Color Presets**
-- Click on **Import**
-- Select the vue-theme.itermcolors file(s) of the [schemes](schemes/) you'd like to use \* Click on **Color Presets** and select vue-theme
+> Install oh-my-zsh T
+
+1. Drop the `vue-theme.zsh-theme` file in to the `~/.oh-my-zsh/themes/` directory.
+2. Open up your ZSH preferences at `open ~/.zshrc`
+3. Change the theme variable to `ZSH_THEME=vue-theme`.
+4. Restart your terminal.
 
 ## Contributors
-
-[awesome contributors](https://github.com/mariorodeghiero/vue-theme-iterm2/graphs/contributors).
 
 | [![Mário Rodeghiero](https://avatars1.githubusercontent.com/u/24671133?s=88&v=4)](https://github.com/mariorodeghiero) |
 | --------------------------------------------------------------------------------------------------------------------- |
