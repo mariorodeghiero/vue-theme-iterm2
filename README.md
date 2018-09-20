@@ -2,7 +2,7 @@
 
 Install [Vue Theme](https://mariorodeghiero.com/vue-theme/) in your terminal.
 
-![iterm2](https://user-images.githubusercontent.com/24671133/45789384-cfd6c100-bc55-11e8-9e81-9151dfa51fb6.gif)
+![iterm](https://user-images.githubusercontent.com/24671133/45790121-b768a580-bc59-11e8-9284-539706cb689a.gif)
 
 ## Install
 
