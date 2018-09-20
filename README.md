@@ -28,7 +28,7 @@ $ git clone https://github.com/mariorodeghiero/vue-theme-iterm2.git
 1. Drop the `vue-theme.zsh-theme` file in to the `~/.oh-my-zsh/themes/` directory.
 2. Open up your ZSH preferences at
    ```
-   open ~/.zshrc
+   $ open ~/.zshrc
    ```
 3. Change the theme variable to `ZSH_THEME=vue-theme`.
 4. Restart your terminal.
