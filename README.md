@@ -2,6 +2,8 @@
 
 Install [Vue Theme](https://mariorodeghiero.com/vue-theme/) in your terminal.
 
+![iterm2](https://user-images.githubusercontent.com/24671133/45789384-cfd6c100-bc55-11e8-9e81-9151dfa51fb6.gif)
+
 ## Install
 
 First, clone the repo via git:
